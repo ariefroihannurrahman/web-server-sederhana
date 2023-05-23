@@ -1,0 +1,19 @@
+{
+  "name": "web-server-sederhana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariefroihannurrahman/web-server-sederhana.git"
+  },
+  "author": "Arief Roihan Nur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariefroihannurrahman/web-server-sederhana/issues"
+  },
+  "homepage": "https://github.com/ariefroihannurrahman/web-server-sederhana#readme"
+}
